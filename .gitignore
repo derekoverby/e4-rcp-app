@@ -16,3 +16,5 @@ target
 
 #eclipse
 .project
+.settings/
+.classpath
