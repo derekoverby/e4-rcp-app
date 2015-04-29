@@ -1,0 +1,11 @@
+<project>
+  <modelVersion>4.0.0</modelVersion>
+  <parent>
+    <groupId>com.companyName</groupId>
+    <artifactId>com.companyName.rcpApp.parent</artifactId>
+    <version>1.0.0-SNAPSHOT</version>
+    <relativePath>../com.companyName.rcpApp.parent</relativePath>
+  </parent>
+  <artifactId>com.companyName.rcpApp.rcp</artifactId>
+  <packaging>eclipse-plugin</packaging>
+</project> 
